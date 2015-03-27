@@ -1,0 +1,571 @@
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Belarus"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Philippines"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Morocco"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Kyrgyzstan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Afghanistan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Nicaragua"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "France"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Haiti"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Puerto Rico"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Cape Verde"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Djibouti"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Cayman Islands"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Latvia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Bangladesh"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Bouvet Island"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Bosnia and Herzegovina"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Panama"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Uzbekistan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Burundi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Guyana"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Kiribati"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Mexico"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Canada"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Laos"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Marshall Islands"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Iceland"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Côte d'Ivoire"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Guadeloupe"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Barbados"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Lebanon"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Lesotho"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Burma"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Norfolk Island"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "El Salvador"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Liechtenstein"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Macao"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Saint Pierre and Miquelon"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Saint Martin (French part)"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "British Virgin Islands"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Central African Republic"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Slovenia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Montserrat"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Burkina Faso"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Mongolia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Guatemala"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "British Indian Ocean Territory"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Korea"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Timor-Leste"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Egypt"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "French Southern Territories"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Russia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "New Zealand"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Angola"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Iran"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Taiwan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Slovakia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Saint Helena"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Greece"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Maldives"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Thailand"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Ukraine"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Pitcairn"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Tonga"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Italy"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Iraq"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Christmas Island"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Moldova"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Papua New Guinea"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Guinea"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Cyprus"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Denmark"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Kuwait"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Cocos (Keeling) Islands"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Wallis and Futuna"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Ghana"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Pakistan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Zaire"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Cook Islands"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Gabon"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Montenegro"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Armenia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Equatorial Guinea"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Croatia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Guernsey"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Cameroon"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Zimbabwe"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Sweden"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Serbia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Estonia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Nigeria"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Martinique"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Siam"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Saint Vincent and the Grenadines"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "North Korea"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Mayotte"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Solomon Islands"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Bolivia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Liberia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Turkmenistan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Turks and Caicos Islands"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Kenya"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "French Polynesia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Peru"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Dominica"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Malawi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Tunisia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Sao Tome and Principe"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "China"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Gambia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "South Georgia and the South Sandwich Islands"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Uganda"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Togo"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Seychelles"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Sudan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Malta"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Cambodia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Bahamas"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Trinidad and Tobago"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Zambia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "West Germany"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Belgium"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Anguilla"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Dominican Republic"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Congo"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Portugal"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Hong Kong"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Tanzania"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Mali"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Ecuador"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Indonesia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Luxembourg"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Chile"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Bahrain"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Fiji"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Republic of Macedonia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Democratic Republic of the Congo"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Niue"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Sierra Leone"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Palestine"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Federal Republic of Yugoslavia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Samoa"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Oman"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Turkey"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "United States Minor Outlying Islands"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Niger"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Netherlands Antilles"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Czech Republic"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Chad"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Guam"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Mozambique"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Saint Barthélemy"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Benin"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Åland Islands"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Romania"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "French Guiana"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Algeria"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Madagascar"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Comoros"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Belize"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Saudi Arabia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Paraguay"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Syria"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Réunion"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Ireland"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Colombia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Switzerland"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Yemen"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Vanuatu"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Malaysia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Aruba"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "South Africa"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Albania"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Palestinian Territory"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "East Germany"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "San Marino"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Austria"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "American Samoa"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Monaco"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Mauritania"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Bermuda"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Hungary"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Antarctica"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Mauritius"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Argentina"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Poland"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Tokelau"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Bulgaria"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Georgia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Germany"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Norway"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Japan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "South Korea"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "United Arab Emirates"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Cuba"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Nauru"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "U.S. Virgin Islands"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Costa Rica"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Federated States of Micronesia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Tajikistan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Sri Lanka"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Holy See (Vatican City State)"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "India"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Greenland"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Senegal"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Jordan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Eritrea"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Namibia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Myanmar"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Uruguay"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Libya"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Andorra"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Saint Kitts and Nevis"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Rwanda"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Saint Lucia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Faroe Islands"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Swaziland"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Jersey"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Brazil"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "USA"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Venezuela"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Western Sahara"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "North Vietnam"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Serbia and Montenegro"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Qatar"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Tuvalu"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Yugoslavia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Spain"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Palau"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Bhutan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Israel"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Brunei Darussalam"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Azerbaijan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Nepal"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Vietnam"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Ethiopia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Kosovo"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Honduras"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Svalbard and Jan Mayen"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Australia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Heard Island and McDonald Islands"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Netherlands"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Northern Mariana Islands"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Gibraltar"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Somalia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Falkland Islands"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "New Caledonia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Antigua and Barbuda"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Isle of Man"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Finland"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Lithuania"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Suriname"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Jamaica"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "United Kingdom"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Czechoslovakia"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Grenada"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonCountry> "Singapore"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Guinea-Bissau"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Botswana"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Kazakhstan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonCountry> "Soviet Union"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Montagnais"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Vietnamese"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Mirandese"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Malecite-Passamaquoddy"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Romansh"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Hausa"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Cantonese"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "French"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Malagasy"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Cornish"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Dogri"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Xhosa"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "German Sign Language"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Fur"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Shanghainese"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Scanian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Georgian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Welsh"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Fulah"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Filipino"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Manchu"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Nenets"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Slovak"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tlingit"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Nepali"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Crow"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Konkani"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Sindarin"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Serbian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Creek"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kudmali"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Norwegian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Manipuri"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kazakh"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Arapaho"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Pashtu"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Dzongkha"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Macedonian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Gumatj"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Swahili"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Khanty"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Pular"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Masai"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Sousson"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kurdish"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Latvian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Ukrainian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Finnish"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Parsee"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Middle English"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Washoe"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Mongolian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Belarusian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Haitian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Malinka"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Sinhala"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Malay"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Awadhi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Icelandic"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tzotzil"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Indian Sign Language"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Marathi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Norse, Old"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Abkhazian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Aché"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tamashek"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Somali"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Serer"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Cherokee"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kwakiutl"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Nahuatl"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kannada"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Russian Sign Language"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Nushi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Nisga'a"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Saami"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Sanskrit"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Croatian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Thai"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Mohawk"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Hakka"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Ojihimba"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Bemba"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tarahumara"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Shoshoni"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Brazilian Sign Language"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Estonian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Maori"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Ladino"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Gaelic"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "American Sign Language"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Aramaic"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tibetan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Naxi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kirundi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Hungarian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Irish Gaelic"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Inuktitut"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "North American Indian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tswana"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Maya"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Lithuanian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tonga (Tonga Islands)"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Navajo"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Greenlandic"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Korean Sign Language"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Shanxi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Bicolano"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Visayan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kalmyk-Oirat"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tupi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Peul"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Azerbaijani"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "East-Greenlandic"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Serbo-Croatian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Gujarati"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Ungwatsi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kinyarwanda"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Portuguese"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "More"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Korowai"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Rotuman"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Chechen"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Greek, Ancient (to 1453)"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Romany"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Teochew"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Rajasthani"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Klingon"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Telugu"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Bulgarian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Pawnee"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Occitan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kaado"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Algonquin"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Nyaneka"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Corsican"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Iban"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Icelandic Sign Language"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Hindi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Akan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Czech"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kuna"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Sotho"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Swiss German"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Breton"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Apache languages"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Chaozhou"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Karajá"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Sardinian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Japanese"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kabuverdianu"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Spanish Sign Language"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Yapese"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "English"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Assyrian Neo-Aramaic"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Sicilian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Bable"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Eastern Frisian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Aragonese"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tswa"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tatar"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Malayalam"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Inupiaq"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Ewe"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tsonga"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Acholi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Aidoukrou"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Yoruba"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Quenya"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Nagpuri"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tigrigna"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Chhattisgarhi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Jola-Fonyi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kikuyu"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Zulu"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Sylheti"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Balinese"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Ojibwa"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Khasi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Purepecha"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Morisyen"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kodava"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Slovenian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Australian Sign Language"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Hopi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Dyula"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Magahi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Turkmen"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Armenian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Turkish"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Arabic"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Latin"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Mizo"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Amharic"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "French Sign Language"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Karbi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Rawan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Afrikaans"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Sorbian languages"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Punjabi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Mapudungun"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Faliasch"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Ryukyuan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Assamese"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kyrgyz"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Aymara"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Galician"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Flemish"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Dari"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Ndebele"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Old English"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Macro-Jê"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Soninke"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Bhojpuri"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Karen"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "None"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Italian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Dinka"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Cheyenne"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Marshallese"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Minangkabau"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Spanish"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Persian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Faroese"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Oriya"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tulu"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Limbu"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Yakut"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Baka"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Polish"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tagalog"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Nyanja"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "German"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Uzbek"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Japanese Sign Language"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Creoles and pidgins"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Masalit"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Sranan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Luxembourgish"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Djerma"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Hmong"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Ladakhi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Bosnian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Bassari"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Songhay"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Maltese"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Korean"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kriolu"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Gunwinggu"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Russian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Berber languages"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Indonesian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Hokkien"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Ibo"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Haryanvi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Hassanya"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Desiya"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Lao"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Burmese"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Hawaiian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Sindhi"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Yiddish"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Catalan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Greek"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Ju'hoan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Maithili"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Lingala"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Sioux"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Creole"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Hebrew"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Quechua"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Mandingo"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Min Nan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Danish"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Papiamento"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Cree"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tamil"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Bambara"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Chinese"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Polynesian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Guarani"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tajik"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Bengali"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Grebo"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Neapolitan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Fon"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Esperanto"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Albanian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Mandarin"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Urdu"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Mende"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "British Sign Language"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Bodo"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tok Pisin"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kabyle"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Low German"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Shona"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Basque"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Dutch"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Aboriginal"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Kru"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Samoan"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Egyptian (Ancient)"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Central Khmer"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Romanian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Nama"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Micmac"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#commonLanguage> "Swedish"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Wolof"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Tuvinian"@en .
+<http://ie.fujitsu.com/data/movies/imdb> <http://ie.fujitsu.com/data/movies/imdb#lessCommonLanguage> "Athapascan languages"@en .
